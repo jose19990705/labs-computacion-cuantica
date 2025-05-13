@@ -1,0 +1,3 @@
+Laboratorio_2_cuántica_sin_renormalización. Este archivo implementa todo y sin la renormalización que se tenía inicialmente.
+No obstante, no cuenta con observadores cuánticos, sino, con el cálculo directo de fidelidad.
+Lab2_Estimators_Observables_. Este hace el proceso con los observadores cuánticos.
